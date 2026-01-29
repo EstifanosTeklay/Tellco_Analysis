@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit
+sqlalchemy
+psycopg2-binary
+pytest
